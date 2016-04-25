@@ -1,0 +1,20 @@
+101
+Daniel Poehler
+10.0
+20.0
+102
+Patti Weigand
+20.0
+20.0
+103
+Lyle Stelter
+30.0
+20.0
+104
+Neva Burdick
+40.0
+20.0
+105
+Lisa Laing
+50.0
+20.0
